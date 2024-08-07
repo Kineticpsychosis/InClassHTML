@@ -13,7 +13,6 @@
         <h2>Ds BIO</h2>
         <ul>
           <li> D </li>
-          <li>The body element represents the visible content shown to the user.</li>
         </ul>
       </section>
       <body>
