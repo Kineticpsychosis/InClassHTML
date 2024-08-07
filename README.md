@@ -22,7 +22,7 @@
       <img src="/Users/TheArchitect/Downloads" alt="D's Profile Pic" />
     </header>
     <section class="card" id="Paragraph About Myself">
-        <h2>CSS</h2>
+        <h2>Paragraph About Myself</h2>
         <ul>
           <li> Trying to figure out how to code is one step of the journey. As we are moving forward in time, the task seeems more and more difficult. Yet, the light at the end of the tunnel is tiny but present. It lights the way and guides us to victory. May victory lie in the hands of the brave. </li>
         </ul>
